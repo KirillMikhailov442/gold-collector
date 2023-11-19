@@ -19,5 +19,7 @@ git clone https://github.com/KirillMikhailov442/gold-collector.git
 
 cd gold-collector
 
+pip install -r requirements.txt
+
 python main.py
 ```
